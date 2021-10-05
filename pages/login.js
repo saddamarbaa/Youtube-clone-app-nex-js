@@ -9,9 +9,9 @@ const LogInScreen = () => {
 	return (
 		<Fragment>
 			<Head>
-				<title>LogIn to Facebook</title>
+				<title>LogIn to Youtube</title>
 			</Head>
-			<meta name='description' content='LogIn to Facebook' />
+			<meta name='description' content='LogIn to Youtube' />
 
 			<LogInComponent />
 		</Fragment>
