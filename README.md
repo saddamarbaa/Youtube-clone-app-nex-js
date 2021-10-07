@@ -132,7 +132,13 @@ Build By Saddam Arbaa Project inspired by [Youtube] https://www.youtube.com//
 
 ## Responsive on all screens
 
+![image](https://user-images.githubusercontent.com/51326421/136422640-7d01181e-324d-4594-b0b9-ae983bfeb6da.png)
+
+
 ## LogIn Page
+
+![image](https://user-images.githubusercontent.com/51326421/136422814-88cd82fd-6655-459d-b3b5-fc9712159f6b.png)
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
